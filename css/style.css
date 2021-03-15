@@ -1,0 +1,9 @@
+h1{
+    font-size: 70px;
+}
+header{
+    background-image: url('../img/pattern.png');
+    height: 200px;
+    background-color: blue;
+    
+}
