@@ -1,30 +1,77 @@
-h1{
-    font-size: 70px;
+*{
+    box-sizing: border-box;
+    margin: 0;
 }
 header{
     background-image: url('../img/pattern.png');
-    height: 200px;
+    height: 150px;
     background-color: rgb(67, 167, 224);   
 }
+
 #logo{
     width: 300px;
-    height: 300px;
-    border-top: 400px;
+    height: 100px;
+    margin-top: 50px;
 }
+
+h1{
+    font-size: 70px;
+    margin-bottom: 0;
+}
+
+#autore{
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#boolean{
+    color: rgb(67, 167, 224);
+}
+
+.photo{
+    font-size: 12px;
+    margin-bottom:20px;
+}
+
 .evidenziato{
     background-color: yellow;
 }
+
+ul{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-inline-start: 20px;
+}
+
 #head-table{
     background-color: rgb(11, 130, 228);
+    color: white;
 }
+
 .sfondo-tabella{
-    background-color: rgb(95, 158, 216);
+    background-color: rgb(151, 228, 233);
 }
+
 table{
     border-spacing: 0;
     text-align: left;
-
 }
+
 #last-colonna{
     width: 50%;
+}
+
+#par-inf{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: grey;
+    margin-bottom: 10px;
+}
+
+#im-monitor{
+    margin-bottom: 10px;
 }
