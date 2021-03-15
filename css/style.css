@@ -4,6 +4,27 @@ h1{
 header{
     background-image: url('../img/pattern.png');
     height: 200px;
-    background-color: blue;
-    
+    background-color: rgb(67, 167, 224);   
+}
+#logo{
+    width: 300px;
+    height: 300px;
+    border-top: 400px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+#head-table{
+    background-color: rgb(11, 130, 228);
+}
+.sfondo-tabella{
+    background-color: rgb(95, 158, 216);
+}
+table{
+    border-spacing: 0;
+    text-align: left;
+
+}
+#last-colonna{
+    width: 50%;
 }
